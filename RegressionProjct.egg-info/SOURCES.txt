@@ -5,3 +5,14 @@ RegressionProjct.egg-info/SOURCES.txt
 RegressionProjct.egg-info/dependency_links.txt
 RegressionProjct.egg-info/requires.txt
 RegressionProjct.egg-info/top_level.txt
+src/__init__.py
+src/exception.py
+src/logger.py
+src/utils.py
+src/components/__init__.py
+src/components/data-transformation.py
+src/components/data_ingestion.py
+src/components/model_trainer.py
+src/pipeline/__init__.py
+src/pipeline/prediction_pipeline.py
+src/pipeline/training_pipeline.py
