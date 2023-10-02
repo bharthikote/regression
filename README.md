@@ -11,3 +11,9 @@ conda activate venv/
 ```
 pip install -r requirements.txt
 ```
+### AWS  beanstalk deployemnet code
+```
+option_settings:
+    "aws:elasticbeanstalk:container:python":
+        WSGIPath: application:application
+```
